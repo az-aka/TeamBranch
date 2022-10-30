@@ -1,0 +1,4 @@
+name: TeamBranch
+version: '${project.version}'
+main: teambranch.teambranch.TeamBranch
+api-version: 1.19
